@@ -1,0 +1,29 @@
+{
+  "homepagelink": "https://automationexercise.com/",
+  "signupPage": {
+    "title": "New User Signup!",
+    "Name": "AyaGamal",
+    "Email": "aya803@teml.net"
+  },
+  "accountInformation": {
+    "title": "ENTER ACCOUNT INFORMATION",
+    "form": {
+      "password":"D987654",
+      "Day": "17",
+      "Month": "July",
+      "Year": "2000",
+      "FirstName": "Aya",
+      "LastName": "Gamal",
+      "Company": "Giza",
+      "Address1": "Address1",
+      "Address2": "Address2",
+      "Country": "India",
+      "State": "state",
+      "City": "Giza",
+      "Zipcode": "05555",
+      "mobileNumber": "01156924567"
+    },
+    "validationPageTitle": "ACCOUNT CREATED!"
+
+  }
+}
